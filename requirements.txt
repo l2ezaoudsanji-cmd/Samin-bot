@@ -1,4 +1,0 @@
-python-telegram-bot[job-queue]==20.7
-jdatetime
-supabase==2.3.0
-pytz
